@@ -3,7 +3,7 @@
 127.0.0.1		localhost
 127.0.1.1		webserver
 192.168.1.11		webserver.matheus.local	webserver
-
+192.168.1.1     
 # Configurações de IPv6 não serão utilizadas nesse curso.
 ::1     localhost ip6-localhost ip6-loopback
 ff02::1 ip6-allnodes
